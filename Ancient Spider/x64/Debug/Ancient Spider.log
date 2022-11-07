@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\VSCode_projs\VSProjects\Ancient Spider\Ancient Spider\LinkList.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\VSCode_projs\VSProjects\Ancient Spider\Ancient Spider\Assistance.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\VSCode_projs\VSProjects\Ancient Spider\Ancient Spider\Node.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Ancient Spider.vcxproj -> E:\VSCode_projs\VSProjects\Ancient Spider\x64\Debug\Ancient Spider.exe
